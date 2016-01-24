@@ -1,0 +1,171 @@
+# Translation of Stable (latest release) in Dutch
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-15 21:05:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: duplicate-post-options.php:202
+msgid "Admin bar"
+msgstr "Beheerders balk"
+
+#: duplicate-post-admin.php:116
+msgid "Clone"
+msgstr "Kopieer"
+
+#. Description of the plugin/theme
+msgid "Clone posts and pages."
+msgstr "Kopieer berichten en pagina's"
+
+#: duplicate-post-admin.php:115
+msgid "Clone this item"
+msgstr "Kopieer dit item"
+
+#: duplicate-post-options.php:132
+msgid "Comma-separated list of meta fields that must not be copied"
+msgstr "enKomma gescheiden lijst van meta velden die niet gekopieerd moeten worden"
+
+#: duplicate-post-options.php:110
+msgid "Copy attachments"
+msgstr "Kopieer bijlagen"
+
+#: duplicate-post-admin.php:185
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopieëren mislukt, kon origineel niet vinden:"
+
+#: duplicate-post-options.php:101
+msgid "Copy excerpt"
+msgstr "Kopieer samenvatting"
+
+#: duplicate-post-options.php:84
+msgid "Copy post/page date also"
+msgstr "Kopieer ook de publicatiedatum"
+
+#: duplicate-post-options.php:92
+msgid "Copy post/page status"
+msgstr "Kopieer bericht/pagina status"
+
+#: duplicate-post-options.php:114
+msgid "Copy the attachments from the original post/page"
+msgstr "Kopieer bijlagen van het originele bericht/pagina"
+
+#: duplicate-post-options.php:105
+msgid "Copy the excerpt from the original post/page"
+msgstr "Kopieer samenvatting van het originele bericht/pagina"
+
+#: duplicate-post-options.php:96
+msgid "Copy the original post status (draft, published, pending) when cloning from the post list."
+msgstr "Kopieer de originele bericht status (concept, gepubliceerd, wachtend op review) bij het klonen vanuit de berichten lijst."
+
+#: duplicate-post-admin.php:118 duplicate-post-admin.php:136
+#: duplicate-post-common.php:66 duplicate-post-common.php:70
+#: duplicate-post-common.php:103
+msgid "Copy to a new draft"
+msgstr "Kopiëren naar een nieuw concept"
+
+#: duplicate-post-options.php:128
+msgid "Do not copy these fields"
+msgstr "Kopieer deze velden niet"
+
+#: duplicate-post-options.php:137
+msgid "Do not copy these taxonomies"
+msgstr "Kopieer deze taxonomieën niet"
+
+#: duplicate-post-admin.php:349 duplicate-post-options.php:69
+msgid "Donate"
+msgstr "Doneer"
+
+#. #-#-#-#-#  tmp-duplicate-post.pot (Duplicate Post 2.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: duplicate-post-options.php:28
+msgid "Duplicate Post"
+msgstr "Dupliceren"
+
+#: duplicate-post-options.php:28 duplicate-post-options.php:62
+msgid "Duplicate Post Options"
+msgstr "Bericht/pagina opties dupliceren"
+
+#: duplicate-post-options.php:199
+msgid "Edit screen"
+msgstr "Bewerk scherm"
+
+#. Author of the plugin/theme
+msgid "Enrico Battocchi"
+msgstr "Enrico Battocchi"
+
+#: duplicate-post-admin.php:119
+msgid "New Draft"
+msgstr "Nieuw concept"
+
+#: duplicate-post-admin.php:163
+msgid "No post to duplicate has been supplied!"
+msgstr "Er is geen orgineel bericht opgegeven!"
+
+#: duplicate-post-options.php:87
+msgid "Normally, the new copy has its publication date set to current time: check the box to copy the original post/page date"
+msgstr "Normaal gesproken wordt de publicatie datum op de huidige tijd gezet. Vink het vakje aan om de publicatie van het originele bericht/pagina over te nemen."
+
+#: duplicate-post-options.php:196
+msgid "Post list"
+msgstr "Berichten lijst"
+
+#: duplicate-post-options.php:160
+msgid "Prefix to be added before the original title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Tekst die voor de originele titel wordt toegevoegd, bijv. \"Kopie van\" (leeg voor geen voorvoegsel)"
+
+#: duplicate-post-options.php:174
+msgid "Roles allowed to copy"
+msgstr "Rollen die kopieën mogen maken"
+
+#: duplicate-post-options.php:208
+msgid "Save Changes"
+msgstr "Opslaan"
+
+#: duplicate-post-options.php:151
+msgid "Select the taxonomies you don't want to be copied"
+msgstr "Selecteer de taxonomieën die u niet gekopieerd wilt hebben"
+
+#: duplicate-post.php:44
+msgid "Settings"
+msgstr "Instellingen"
+
+#: duplicate-post-options.php:192
+msgid "Show links in"
+msgstr "Toon koppelingen in"
+
+#: duplicate-post-options.php:169
+msgid "Suffix to be added after the original title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Tekst die achter de originele titel wordt toegevoegd, bijv. \"(kopie)\" (leeg voor geen achtervoegsel)"
+
+#: duplicate-post-options.php:156
+msgid "Title prefix"
+msgstr "Titel voorvoegsel"
+
+#: duplicate-post-options.php:165
+msgid "Title suffix"
+msgstr "Titel achtervoegsel"
+
+#: duplicate-post-admin.php:350 duplicate-post-options.php:68
+msgid "Translate"
+msgstr "Vertaal"
+
+#: duplicate-post-options.php:67
+msgid "Visit plugin site"
+msgstr "Bezoek plugin site"
+
+#: duplicate-post-options.php:187
+msgid "Warning: users will be able to copy all posts, even those of other users"
+msgstr "Waarschuwing: gebruikers zullen alle berichten kunnen kopiëren, zelfs die van andere gebruikers"
+
+#. Author URI of the plugin/theme
+msgid "http://lopo.it"
+msgstr "http://lopo.it"
+
+#. Plugin URI of the plugin/theme
+msgid "http://lopo.it/duplicate-post-plugin/"
+msgstr "http://lopo.it/duplicate-post-plugin/"
